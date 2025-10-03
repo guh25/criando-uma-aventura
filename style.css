@@ -2,12 +2,16 @@ body {
   background-color: #180a49;
   color: #533eca;
   font-family: "Yusei Magic", sans-serif;
-
+display: flex;
+justify-content: center;
+align-items: center;
+height: 500px;
+margin: 15%;
 }
 
 button {
   color: #ffffff;
   border-color: #180a49;
   font-family: "Yusei Magic", sans-serif;
- background-color: #5714c2;
+  background-color: #5714c2;
 }
